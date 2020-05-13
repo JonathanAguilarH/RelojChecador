@@ -1,0 +1,15 @@
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Release\MarcajePorRostro.exe
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Release\MarcajePorRostro.pdb
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.FrmPrincipal.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.exe
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.pdb
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Release\MarcajePorRostro.exe.manifest
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Release\MarcajePorRostro.application
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.exe.manifest
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.application
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.FrmBuscaId.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\MarcajePorRostro.FrmPideUsuario.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Release\Properties.Resources.resources

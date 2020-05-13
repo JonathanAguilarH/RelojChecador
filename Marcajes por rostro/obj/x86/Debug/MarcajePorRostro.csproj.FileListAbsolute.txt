@@ -1,0 +1,18 @@
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Debug\MarcajePorRostro.exe
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Debug\MarcajePorRostro.pdb
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.exe
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.pdb
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.FrmPrincipal.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Debug\MarcajePorRostro.exe.manifest
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\bin\Debug\MarcajePorRostro.application
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.exe.manifest
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.application
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.FrmBuscaId.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\Properties.Resources.resources
+C:\Users\PC-Manuel\Documents\FORJARTE\Source\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.FrmPideUsuario.resources
+C:\Users\MERIDASOFT6\Dropbox\Carpeta en común\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.exe
+C:\Users\MERIDASOFT6\Dropbox\Carpeta en común\Marcajes por rostro\obj\x86\Debug\MarcajePorRostro.pdb
+C:\Users\MERIDASOFT6\Dropbox\Carpeta en común\Marcajes por rostro\bin\Debug\MarcajePorRostro.exe.config
