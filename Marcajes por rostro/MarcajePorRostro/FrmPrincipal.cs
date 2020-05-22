@@ -770,8 +770,12 @@
                 if (e.KeyCode == Keys.Enter)
                 {
                     txtCodigo.Text = txtCodigo.Text.Trim().ToUpper();
-                    if (txtCodigo.Text.Substring(0, 2) == "'E")
+                    if (txtCodigo.Text.Substring(0, 2) == "'E" | txtCodigo.Text.Substring(0, 2) == "%$")
                     {
+                        if (txtCodigo.Text.Substring(0, 2) == "%$")
+                        {
+                            txtCodigo.Text = txtCodigo.Text.Substring(2);
+                        }
                         txtCodigo.Text = txtCodigo.Text.Substring(2);
                     }
                     txtCodigo.Refresh();
